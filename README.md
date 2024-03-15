@@ -1,5 +1,5 @@
 # Star_Explosion_Visual
-Trying to visualize how a star explodes in python. Not my best work, but it'll be good.
+Trying to visualize how a star explodes in python. Not my best work.
 
 I like to spend my time watching the night sky. It's the only place where I feel happyness, where I feel free. I love the stars,
 and I like the thought of how they explode and form Neutron Stars or Black Holes, or just stay as a ball forever, out of energy forever.
